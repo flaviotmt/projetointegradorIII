@@ -1,0 +1,30 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_261\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\allclasses-frame.html = 1603851422622
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\allclasses-noframe.html = 1603851422650
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\argfile = 1603851419845
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Atividade.html = 1603851421343
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Conexoes.html = 1603851421477
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\constant-values.html = 1603851422109
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Crianca.html = 1603851421532
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\deprecated-list.html = 1603851422592
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\help-doc.html = 1603851422713
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\index-all.html = 1603851422533
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\index.html = 1603851422668
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Main.html = 1603851421567
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Mensagem.html = 1603851421624
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\options = 1603851419844
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\overview-tree.html = 1603851422472
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\package-frame.html = 1603851421960
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\package-list = 1603851421957
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\package-summary.html = 1603851422012
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\package-tree.html = 1603851422082
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\package-use.html = 1603851422439
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Par.html = 1603851421697
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Profissional.html = 1603851421793
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Responsavel.html = 1603851421835
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\script.js = 1603851422767
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\stylesheet.css = 1603851422740
+C:\Users\Pichau\Documents\NetBeansProjects\meajudaprofessor\target\site\apidocs\Usuario.html = 1603851421907
